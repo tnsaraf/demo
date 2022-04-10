@@ -1,18 +1,1157 @@
 {
-  "posts": [
+  "users": [
     {
-    "date": "labore mollit fugiat anim",
-    "instrument": "laborum",
-    "strike": "est ut amet",
-    "entryPrice": "ea ipsum eu nisi",
-    "exitPrice": "elit voluptate adipisicing"
-  },
-  {
-    "date": "fugiat ut anim Ut",
-    "instrument": "dolore",
-    "strike": "est exercitat",
-    "entryPrice": "anim incididunt Ut",
-    "exitPrice": "do"
-  }
-  ]
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642651021329",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642651728267,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642651021472,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651022071,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651025409,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "109.55:76.4",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651728229,
+                "status": "STOPPING_MANUALLY",
+                "message": "PeLeAvgExitConditionSatisfied",
+                "orderPrice": "109.55:76.4",
+                "ltp": "172.19259259259258:43.57222222222222"
+            },
+            {
+                "trasnactionTime": 1642651728267,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "109.55:76.4",
+                "ltp": "172.19259259259258:43.57222222222222"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642748476326",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642999390147,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642748476430,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642748476592,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642748479879,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "30.95:54.25",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642759201209,
+                "status": "MONITORING",
+                "message": null,
+                "orderPrice": "30.95:54.25",
+                "ltp": "31.65:36.77166666666667"
+            },
+            {
+                "trasnactionTime": 1642759203244,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "30.95:54.25",
+                "ltp": "31.65:36.77166666666667"
+            },
+            {
+                "trasnactionTime": 1642992238600,
+                "status": "MONITORING",
+                "message": "Monitoring started",
+                "orderPrice": "30.95:54.25",
+                "ltp": "31.65:36.77166666666667"
+            },
+            {
+                "trasnactionTime": 1642999389893,
+                "status": "EXITING_POSITIONS",
+                "message": "Monitoring started",
+                "orderPrice": "30.95:54.25",
+                "ltp": "22.28939393939394:34.0030303030303"
+            },
+            {
+                "trasnactionTime": 1642999390088,
+                "status": "POSITIONS_EXITED",
+                "message": "Monitoring started",
+                "orderPrice": "30.95:54.25",
+                "ltp": "22.30806451612903:33.97741935483871"
+            },
+            {
+                "trasnactionTime": 1642999390147,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "30.95:54.25",
+                "ltp": "22.30806451612903:33.97741935483871"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642672554476",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642748370585,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642672554582,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672554769,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672558036,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "45.3:43.8",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672800075,
+                "status": "MONITORING",
+                "message": null,
+                "orderPrice": "45.3:43.8",
+                "ltp": "47.025862068965516:42.689473684210526"
+            },
+            {
+                "trasnactionTime": 1642672802100,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "45.3:43.8",
+                "ltp": "47.025862068965516:42.689473684210526"
+            },
+            {
+                "trasnactionTime": 1642734237144,
+                "status": "MONITORING",
+                "message": "Monitoring started",
+                "orderPrice": "45.3:43.8",
+                "ltp": "47.025862068965516:42.689473684210526"
+            },
+            {
+                "trasnactionTime": 1642748370560,
+                "status": "POSITIONS_EXITED",
+                "message": "Strategy stopped",
+                "orderPrice": "45.3:43.8",
+                "ltp": "21.196666666666665:75.32142857142857"
+            },
+            {
+                "trasnactionTime": 1642748370585,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "45.3:43.8",
+                "ltp": "21.196666666666665:75.32142857142857"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642997194824",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642997198482,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642997194931,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642997195179,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642997198482,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "70.5:50.15",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642579315453",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "38600:37200",
+        "currentStatus": "STOPPING_MANUALLY",
+        "date": 1642583688619,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642583688569,
+                "status": "STOPPING_MANUALLY",
+                "message": "PeLeAvgExitConditionSatisfied",
+                "orderPrice": "37.0:34.65",
+                "ltp": "53.2265625:18.26875"
+            },
+            {
+                "trasnactionTime": 1642583688619,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "37.0:34.65",
+                "ltp": "53.2265625:18.26875"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "NIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642659670550",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "NIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642672356094,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642659670661,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642659670921,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642659674123,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672348002,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672348096,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672349967,
+                "status": "MONITORING",
+                "message": "Monitoring started",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672356059,
+                "status": "STOPPING_MANUALLY",
+                "message": "Monitoring started",
+                "orderPrice": "0.0:0.0",
+                "ltp": "104.285:100.43333333333334"
+            },
+            {
+                "trasnactionTime": 1642672356094,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "104.285:100.43333333333334"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642739325560",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642998769674,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642739325673,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642739325809,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642739329082,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "38.6:52.15",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642759200100,
+                "status": "MONITORING",
+                "message": null,
+                "orderPrice": "38.6:52.15",
+                "ltp": "45.144999999999996:29.036538461538463"
+            },
+            {
+                "trasnactionTime": 1642759202173,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "38.6:52.15",
+                "ltp": "45.144999999999996:29.036538461538463"
+            },
+            {
+                "trasnactionTime": 1642992238599,
+                "status": "MONITORING",
+                "message": "Monitoring started",
+                "orderPrice": "38.6:52.15",
+                "ltp": "45.144999999999996:29.036538461538463"
+            },
+            {
+                "trasnactionTime": 1642998756131,
+                "status": "EXITING_POSITIONS",
+                "message": "Monitoring started",
+                "orderPrice": "38.6:52.15",
+                "ltp": "31.471666666666668:26.188709677419357"
+            },
+            {
+                "trasnactionTime": 1642998756285,
+                "status": "POSITIONS_EXITED",
+                "message": "Monitoring started",
+                "orderPrice": "38.6:52.15",
+                "ltp": "31.479032258064517:26.1890625"
+            },
+            {
+                "trasnactionTime": 1642998756307,
+                "status": "TAKINGN_POSITIONS",
+                "message": "Monitoring started",
+                "orderPrice": "38.6:52.15",
+                "ltp": "31.479032258064517:26.1890625"
+            },
+            {
+                "trasnactionTime": 1642998759570,
+                "status": "POSITION_TAKEN",
+                "message": "Monitoring started",
+                "orderPrice": "26.95:29.8",
+                "ltp": "31.479032258064517:26.1890625"
+            },
+            {
+                "trasnactionTime": 1642998769674,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "26.95:29.8",
+                "ltp": "26.43:30.2375"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "RELIANCE:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642659630868",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "RELIANCE",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642672350412,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642659630971,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642659631337,
+                "status": "MONITORING",
+                "message": "Issue while getting broker session, Please relogin and try again",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642659631345,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672349970,
+                "status": "START",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672350412,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642650602152",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642650607373,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642650602404,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642650604954,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642650607367,
+                "status": "ERROR",
+                "message": "Strategy exit on error: Error while placing order:com.zerodhatech.kiteconnect.kitehttp.exceptions.InputException",
+                "orderPrice": "64.5:55.85",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642650607373,
+                "status": "END",
+                "message": "Strategy exit on error: Error while placing order:com.zerodhatech.kiteconnect.kitehttp.exceptions.InputException",
+                "orderPrice": "64.5:55.85",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642651798651",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642654178189,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642651798763,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651798990,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651802260,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "64.9:50.5",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642654178172,
+                "status": "ERROR",
+                "message": "Strategy exit on error: com.zerodhatech.kiteconnect.kitehttp.exceptions.InputException",
+                "orderPrice": "64.9:50.5",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642654178189,
+                "status": "END",
+                "message": "Strategy exit on error: com.zerodhatech.kiteconnect.kitehttp.exceptions.InputException",
+                "orderPrice": "64.9:50.5",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642672490939",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642737172907,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642672491048,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672491281,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672494492,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "25.45:28.95",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672800060,
+                "status": "MONITORING",
+                "message": null,
+                "orderPrice": "25.45:28.95",
+                "ltp": "26.441666666666666:27.355999999999998"
+            },
+            {
+                "trasnactionTime": 1642672802062,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "25.45:28.95",
+                "ltp": "26.441666666666666:27.355999999999998"
+            },
+            {
+                "trasnactionTime": 1642734237158,
+                "status": "MONITORING",
+                "message": "Monitoring started",
+                "orderPrice": "25.45:28.95",
+                "ltp": "26.441666666666666:27.355999999999998"
+            },
+            {
+                "trasnactionTime": 1642737172905,
+                "status": "ERROR",
+                "message": "Strategy exit on error: null",
+                "orderPrice": "25.45:28.95",
+                "ltp": "13.758064516129032:80.38333333333334"
+            },
+            {
+                "trasnactionTime": 1642737172907,
+                "status": "END",
+                "message": "Strategy exit on error: null",
+                "orderPrice": "25.45:28.95",
+                "ltp": "13.758064516129032:80.38333333333334"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642593037095",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642593215470,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642593037203,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642593213963,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642593215470,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642592507516",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642592893958,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642592507635,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642592891987,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642592893958,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "NSE:NIFTY BANK:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642737437108",
+        "strategyName": "NIFTY BANK",
+        "instrument": "NSE",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642739297115,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642737437215,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642739297004,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642739297115,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "NSE:NIFTY BANK:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642651697138",
+        "strategyName": "NIFTY BANK",
+        "instrument": "NSE",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642651895106,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642651697246,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651697383,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651700656,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "107.3:68.55",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642651895048,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "107.3:68.55",
+                "ltp": "98.91129032258064:77.49827586206897"
+            },
+            {
+                "trasnactionTime": 1642651895106,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "107.3:68.55",
+                "ltp": "98.91129032258064:77.49827586206897"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "NSE:NIFTY BANK:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642653656152",
+        "strategyName": "NIFTY BANK",
+        "instrument": "NSE",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642654183106,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642653656261,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642653656569,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642653659830,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "52.75:62.1",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642654183034,
+                "status": "EXITING_POSITIONS",
+                "message": "ProfitBookingConditionSatisfied",
+                "orderPrice": "52.75:62.1",
+                "ltp": "50.95:0.0"
+            },
+            {
+                "trasnactionTime": 1642654183100,
+                "status": "POSITIONS_EXITED",
+                "message": "ProfitBookingConditionSatisfied",
+                "orderPrice": "52.75:62.1",
+                "ltp": "50.95:0.0"
+            },
+            {
+                "trasnactionTime": 1642654183106,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "52.75:62.1",
+                "ltp": "50.95:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642997079330",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642997155197,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642997079475,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642997082355,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642997085557,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "62.45:59.65",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642997155123,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "62.45:59.65",
+                "ltp": "61.17741935483871:59.788709677419355"
+            },
+            {
+                "trasnactionTime": 1642997155197,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "62.45:59.65",
+                "ltp": "61.17741935483871:59.788709677419355"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "NSE:NIFTY BANK:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642654183100",
+        "strategyName": "NIFTY BANK",
+        "instrument": "NSE",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642658505149,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642654183207,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642658505060,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642658505149,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642591970047",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642592002458,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642591970160,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642592001491,
+                "status": "STOPPING_MANUALLY",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642592002458,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "NSE:NIFTY BANK:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642736760838",
+        "strategyName": "NIFTY BANK",
+        "instrument": "NSE",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642744044420,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642736760954,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642736820075,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642736823342,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "46.25:60.25",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642744044410,
+                "status": "POSITIONS_EXITED",
+                "message": "Strategy stopped",
+                "orderPrice": "46.25:60.25",
+                "ltp": "37.896153846153844:52.22592592592592"
+            },
+            {
+                "trasnactionTime": 1642744044420,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "46.25:60.25",
+                "ltp": "37.896153846153844:52.22592592592592"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642999493884",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642999497503,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642999493991,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642999494164,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642999497503,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "71.6:77.15",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642753453945",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642998693799,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642753454052,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642753454223,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642753457488,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "51.35:60.8",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642759200071,
+                "status": "MONITORING",
+                "message": null,
+                "orderPrice": "51.35:60.8",
+                "ltp": "53.20344827586207:41.13076923076923"
+            },
+            {
+                "trasnactionTime": 1642759202084,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "51.35:60.8",
+                "ltp": "53.20344827586207:41.13076923076923"
+            },
+            {
+                "trasnactionTime": 1642992238597,
+                "status": "MONITORING",
+                "message": "Monitoring started",
+                "orderPrice": "51.35:60.8",
+                "ltp": "53.20344827586207:41.13076923076923"
+            },
+            {
+                "trasnactionTime": 1642998693546,
+                "status": "EXITING_POSITIONS",
+                "message": "Monitoring started",
+                "orderPrice": "51.35:60.8",
+                "ltp": "34.979032258064514:42.64655172413793"
+            },
+            {
+                "trasnactionTime": 1642998693752,
+                "status": "POSITIONS_EXITED",
+                "message": "Monitoring started",
+                "orderPrice": "51.35:60.8",
+                "ltp": "34.979032258064514:42.64655172413793"
+            },
+            {
+                "trasnactionTime": 1642998693799,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "51.35:60.8",
+                "ltp": "34.979032258064514:42.64655172413793"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642650647770",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642654178125,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642650647886,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642650648140,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642650651425,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "57.15:65.15",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642654178118,
+                "status": "ERROR",
+                "message": "Strategy exit on error: com.zerodhatech.kiteconnect.kitehttp.exceptions.InputException",
+                "orderPrice": "57.15:65.15",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642654178125,
+                "status": "END",
+                "message": "Strategy exit on error: com.zerodhatech.kiteconnect.kitehttp.exceptions.InputException",
+                "orderPrice": "57.15:65.15",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "ICICIBANK:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642659583550",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "ICICIBANK",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642672350386,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642659583654,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642659584031,
+                "status": "MONITORING",
+                "message": "Issue while getting broker session, Please relogin and try again",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642659584057,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672349972,
+                "status": "START",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642672350386,
+                "status": "END",
+                "message": "Strategy stopped",
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    },
+    {
+        "strategyRunName": "BANKNIFTY:non-directional-no-slm:75d40859-0ff8-49eb-a5a5-59c692de0ebe:1642998819595",
+        "strategyName": "non-directional-no-slm",
+        "instrument": "BANKNIFTY",
+        "strikePrice": "0:0",
+        "currentStatus": "START",
+        "date": 1642998823117,
+        "strategieStatuses": [
+            {
+                "trasnactionTime": 1642998819702,
+                "status": "START",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642998819840,
+                "status": "TAKINGN_POSITIONS",
+                "message": null,
+                "orderPrice": "0.0:0.0",
+                "ltp": "0.0:0.0"
+            },
+            {
+                "trasnactionTime": 1642998823117,
+                "status": "POSITION_TAKEN",
+                "message": null,
+                "orderPrice": "50.8:56.7",
+                "ltp": "0.0:0.0"
+            }
+        ]
+    }
+]
 }
