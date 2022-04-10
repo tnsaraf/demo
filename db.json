@@ -1,16 +1,19 @@
-[
-  {
+{
+  "user":[
+    {
     "date": "labore mollit fugiat anim",
     "instrument": "laborum",
     "strike": "est ut amet",
     "entryPrice": "ea ipsum eu nisi",
     "exitPrice": "elit voluptate adipisicing"
-  },
-  {
+    },
+    {
     "date": "fugiat ut anim Ut",
     "instrument": "dolore",
     "strike": "est exercitat",
     "entryPrice": "anim incididunt Ut",
     "exitPrice": "do"
-  }
-]
+    }
+  ]
+}
+  
